@@ -1,0 +1,32 @@
+{
+  "name": "@tpp/hybrid-logical-clock",
+  "version": "1.0.0",
+  "description": "A better Distributed Vector Clock",
+  "main": "hlc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theproductiveprogrammer/hybrid-logical-clock.git"
+  },
+  "keywords": [
+    "vector",
+    "clock",
+    "hlc",
+    "hybrid",
+    "logical",
+    "clock",
+    "lambort",
+    "clock"
+  ],
+  "author": "charles.lobo@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/theproductiveprogrammer/hybrid-logical-clock/issues"
+  },
+  "homepage": "https://github.com/theproductiveprogrammer/hybrid-logical-clock#readme",
+  "dependencies": {
+    "@tpp/simple-uuid": "^1.0.0"
+  }
+}
